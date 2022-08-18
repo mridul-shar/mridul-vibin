@@ -1,9 +1,8 @@
 ### Hi there 👋
 
+<a href="https://discord.com/users/666673097683763229">
+  <img src="https://plug.ninja/theme-1/666673097683763229?size=2048">
 <!--
-**zentsu/zentsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
