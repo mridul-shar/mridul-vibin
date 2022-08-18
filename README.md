@@ -9,8 +9,6 @@
 </h4>
 
 <p align="center">
-<a href="https://discord.com/users/666673097683763229">
-  <img src="https://plug.ninja/theme-1/666673097683763229?size=2048">
 
  ![Zentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentsu&show_icons=true&theme=dark)
   </p>
