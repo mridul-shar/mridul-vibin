@@ -5,7 +5,7 @@
 <br>
 🔭 I’m currently working on a website.
 <br>
-🧑🏻‍🎓 I'm a 15. Still in high school.
+🧑🏻‍🎓 I'm 15. Still in high school.
 </h4>
 
 <p align="center">
