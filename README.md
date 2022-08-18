@@ -4,7 +4,7 @@
   <img src="https://plug.ninja/theme-1/666673097683763229?size=2048">
   
   
- [!Zentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentsu)](https://github.com/zentsu/github-readme-stats)
+ ![Zentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentsu)](https://github.com/zentsu/github-readme-stats)
 <!--
 
 - 🔭 I’m currently working on ...
