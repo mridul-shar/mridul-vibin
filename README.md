@@ -1,9 +1,12 @@
 <h1 align='center'> Hi there 👋</h1>
-✋ I'm <u>Zentsu</u>
+
+<p1>
+ ✋ I'm <u>Zentsu</u>
 <br>
 🔭 I’m currently working on a website.
 <br>
 🧑🏻‍🎓 I'm a 15. Still in high school.
+</p1>
 
 <p align="center">
 <a href="https://discord.com/users/666673097683763229">
