@@ -4,7 +4,7 @@
   <img src="https://plug.ninja/theme-1/666673097683763229?size=2048">
   
   
- ![Zentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentsu&show_icons=true&theme=cobalt)
+ ![Zentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentsu&show_icons=true&theme=synthwave)
 <!--
 
 - 🔭 I’m currently working on ...
