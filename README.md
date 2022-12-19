@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋</h1>
 
 <h4>
- ✋ I'm <u>Zentsu</u>
+ ✋ I'm <u>Mridul</u>
 <br>
 🔭 I’m currently working on a website.
 <br>
