@@ -10,7 +10,6 @@
 
 <p align="center">
 
- ![Zentsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentsu&show_icons=true&theme=dark)
   </p>
 <!--
 
