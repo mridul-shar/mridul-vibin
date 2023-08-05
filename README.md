@@ -3,9 +3,11 @@
 <h4>
  ✋ I'm <u>Mridul</u>
 <br>
-🔭 I’m currently working on a website.
+🔭 I’m currently working on a webiste(for physics students).
 <br>
-🧑🏻‍🎓 I'm 15. Still in high school.
+🧑🏻‍🎓 I'm 16. Still in high school.
+ <br>
+ 🤔 I’m looking for help with C++ and OpenGL
 </h4>
 
 <p align="center">
