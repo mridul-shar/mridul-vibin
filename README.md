@@ -10,9 +10,6 @@
  🤔 I’m looking for help with C++ and OpenGL
 </h4>
 
-<p align="center">
-
-  </p>
 <!--
 
 - 🔭 I’m currently working on ...
