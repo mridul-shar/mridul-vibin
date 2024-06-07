@@ -3,7 +3,7 @@
 <h4>
  ✋ I'm <u>Mridul</u>
 <br>
-🔭 Building <a href="https://mridul-vibin.github.io/spaceVI/"> spaceVI </a>
+<!--🔭 Building <a href="https://mridul-vibin.github.io/spaceVI/"> spaceVI </a> -->
 <br>
 🧑🏻‍🎓 I'm 16. Still in high school.
  <br>
