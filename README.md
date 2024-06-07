@@ -5,7 +5,7 @@
 <br>
 <!--🔭 Building <a href="https://mridul-vibin.github.io/spaceVI/"> spaceVI </a> -->
 <br>
-🧑🏻‍🎓 I'm 16. Still in high school.
+🧑🏻‍🎓 I'm 17. Still in high school.
  <br>
  🤔 I’m looking for help with C++ and OpenGL
 </h4>
